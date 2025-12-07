@@ -42,9 +42,6 @@
   <a href="#state-learning">
     <img src="https://img.shields.io/badge/Learning_Mode-FF8C00?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
-  <a href="#state-competition">
-    <img src="https://img.shields.io/badge/Competition_Mode-E83E8C?style=for-the-badge&logo=huawei&logoColor=white" />
-  </a>
   <a href="#state-chill">
     <img src="https://img.shields.io/badge/Chill_Mode-94D2BD?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
