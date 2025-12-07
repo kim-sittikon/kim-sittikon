@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- NEON GLOW HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Kim+👋;Sittikorn+Bunna+(Kim);Computer+Engineering+Student+@+RMUTT;Web+Dev+|+Cloud+|+Cybersecurity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Kim+👋;Sittikon+Bunna+(Kim);Computer+Engineering+Student+@+RMUTT;Web+Dev+|+Cloud+|+Cybersecurity" />
 
 <!-- NAME -->
 <h1 align="center">
@@ -54,10 +54,10 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=kim-sittikon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
+<img src="https://github-readme-stats-git-master-kims-projects.vercel.app/api?username=kim-sittikon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
 
 <!-- Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sittikon&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
+<img src="https://github-readme-stats-git-master-kims-projects.vercel.app/api/top-langs/?username=kim-sittikon&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
 
 <!-- Streak -->
 <img src="https://streak-stats.demolab.com/?user=kim-sittikon&theme=tokyonight&hide_border=true&border_radius=20" width="70%" />
