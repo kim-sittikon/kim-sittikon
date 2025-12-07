@@ -1,75 +1,31 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Kim</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Kim+👋;Computer+Engineering+Student;Web+Dev+%7C+Cloud+%7C+Cybersecurity" alt="Typing SVG" />
+  
+  <h2 align="center">สิทธิกร บุญณะ (Kim) 🇹🇭</h2>
+  
+  <p align="center">
+    <b>🚀 Building the future with Code & Cloud Technology @ RMUTT CPE</b>
+  </p>
 
-<p align="center">
-  <b>สิทธิกร บุญณะ (Kim)</b><br/>
-  Computer Engineering Student @ RMUTT CPE 🇹🇭
-</p>
-
-<p align="center">
-  <a href="https://github.com/kim-sittikon?tab=followers">
-    <img src="https://img.shields.io/github/followers/kim-sittikon?style=social" />
-  </a>
-  <a href="https://github.com/kim-sittikon">
-    <img src="https://komarev.com/ghpvc/?username=kim-sittikon&label=Profile%20views&color=blueviolet&style=flat" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/kim-sittikon?tab=followers">
+      <img src="https://img.shields.io/github/followers/kim-sittikon?style=social&label=Followers" />
+    </a>
+    <a href="https://github.com/kim-sittikon">
+      <img src="https://komarev.com/ghpvc/?username=kim-sittikon&label=Profile%20Views&color=blueviolet&style=flat" />
+    </a>
+  </p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering student at **RMUTT**  
-- 💻 Interests: **Web Development · Cloud · Cybersecurity**  
-- ☁️ Preparing for **Huawei ICT Competition – Computing Track**  
-- 🛠️ Developer of **CPE Issue & Complaint Reporting System**  
-- 📚 Currently learning **Linux, Networking, Pentest, AWS, Flutter**  
+```bash
+user@kim-pc:~$ cat about_me.txt
 
----
-
-## 🧰 Tech Stack
-
-### **Languages**
-`C` · `C++` · `Java` · `PHP` · `JavaScript` · `Dart (Flutter)`
-
-### **Web & Frameworks**
-`HTML` · `CSS` · `Tailwind CSS` · `React` · `Laravel` · `Inertia.js`
-
-### **Tools & Platforms**
-`Git` · `GitHub` · `Linux` · `XAMPP` · `MySQL` · `AWS (EC2, S3, VPC)`
-
----
-
-## 🚀 Highlight Projects
-
-> จะค่อย ๆ เพิ่มลิงก์เมื่ออัปโหลดโค้ดจริง
-
-- 🏫 **RMUTT CPE Issue Reporting System**  
-  ระบบเว็บสำหรับรับเรื่องร้องเรียน–แจ้งซ่อมภายในคณะ CPE  
-- 📱 **Flutter Mini Apps**  
-  เช่น ตัวคำนวณ, ตรวจเลขคู่–คี่, friends map  
-- ☁️ **AWS Labs**  
-  VPC · EC2 Web Server · S3 Static Website · Node-RED on EC2
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kim-sittikon&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sittikon&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kim-sittikon&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Contact
-
-- 📧 RMUTT Email: `xxxxxx@rmutt.ac.th`
-- 🌐 (จะเพิ่ม Facebook · LinkedIn · Portfolio ได้ในภายหลัง)
+Name:    Sittikorn Bunna (Kim)
+Role:    Computer Engineering Student @ RMUTT
+Focus:   Web Development, Cloud Architecture, Cybersecurity
+Status:  Preparing for Huawei ICT Competition (Computing Track) ☁️
+Learning: Linux, Networking, Pentest, AWS, Flutter
