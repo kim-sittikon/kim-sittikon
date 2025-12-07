@@ -59,5 +59,4 @@ user@kim-pc:~$ cat about_me.txt
 Name:     Sittikorn Bunna (Kim)
 Role:     Computer Engineering Student @ RMUTT
 Focus:    Web Development | Cloud Architecture | Cybersecurity
-Status:   Training for Huawei ICT Competition (Computing Track) ☁️
 Learning: Linux, Networking, Pentest, AWS, Flutter
