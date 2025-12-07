@@ -1,5 +1,5 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Kim 👋</h1>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Kim</h1>
 
 <p align="center">
   <b>สิทธิกร บุญณะ (Kim)</b><br/>
@@ -11,74 +11,65 @@
     <img src="https://img.shields.io/github/followers/kim-sittikon?style=social" />
   </a>
   <a href="https://github.com/kim-sittikon">
-    <img src="https://komarev.com/ghpvc/?username=kim-sittikon&label=Profile%20views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=kim-sittikon&label=Profile%20views&color=blueviolet&style=flat" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Engineering student at **RMUTT**
-- 💻 Interested in **Web Development, Cloud, and Cybersecurity**
-- ☁️ Preparing for **Huawei ICT Competition (Computing Track)**
-- 🛠️ Building a **Complaint & Repair Reporting System** for CPE
-- 📚 Learning **Linux, Networking, Pentest, AWS, Flutter**
+- 🎓 Computer Engineering student at **RMUTT**  
+- 💻 Interests: **Web Development · Cloud · Cybersecurity**  
+- ☁️ Preparing for **Huawei ICT Competition – Computing Track**  
+- 🛠️ Developer of **CPE Issue & Complaint Reporting System**  
+- 📚 Currently learning **Linux, Networking, Pentest, AWS, Flutter**  
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-**Languages**
-
+### **Languages**
 `C` · `C++` · `Java` · `PHP` · `JavaScript` · `Dart (Flutter)`
 
-**Web & Frameworks**
-
+### **Web & Frameworks**
 `HTML` · `CSS` · `Tailwind CSS` · `React` · `Laravel` · `Inertia.js`
 
-**Tools & Platforms**
-
-`Git` · `GitHub` · `Linux` · `XAMPP` · `MySQL` · `AWS (EC2, S3, VPC)`  
-
----
-
-### 🚀 Highlight Projects
-
-> จะค่อย ๆ ใส่ลิงก์ repo จริงเมื่ออัปโหลดโค้ด
-
-- 🏫 **RMUTT CPE Issue Reporting System** – Web app สำหรับรับเรื่องร้องเรียนและแจ้งซ่อมภายในคณะ  
-- 📱 **Flutter Mini Apps** – โปรแกรมคำนวณ, แสดงเลขคี่/เลขคู่, friends map ฯลฯ  
-- ☁️ **AWS Labs** – Lab VPC, EC2 web server, S3 static website, Node-RED on EC2  
+### **Tools & Platforms**
+`Git` · `GitHub` · `Linux` · `XAMPP` · `MySQL` · `AWS (EC2, S3, VPC)`
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Highlight Projects
+
+> จะค่อย ๆ เพิ่มลิงก์เมื่ออัปโหลดโค้ดจริง
+
+- 🏫 **RMUTT CPE Issue Reporting System**  
+  ระบบเว็บสำหรับรับเรื่องร้องเรียน–แจ้งซ่อมภายในคณะ CPE  
+- 📱 **Flutter Mini Apps**  
+  เช่น ตัวคำนวณ, ตรวจเลขคู่–คี่, friends map  
+- ☁️ **AWS Labs**  
+  VPC · EC2 Web Server · S3 Static Website · Node-RED on EC2
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kim-sittikon&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Kim's GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kim-sittikon&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sittikon&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-sittikon&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kim-sittikon&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=kim-sittikon&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Contact
+## 📫 Contact
 
-- 📧 Email (RMUTT): `xxxxxx@rmutt.ac.th`
-- 🌐 เพิ่มลิงก์อื่น ๆ (Facebook, LinkedIn, Portfolio) ได้ในภายหลัง
+- 📧 RMUTT Email: `xxxxxx@rmutt.ac.th`
+- 🌐 (จะเพิ่ม Facebook · LinkedIn · Portfolio ได้ในภายหลัง)
