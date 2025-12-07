@@ -53,11 +53,6 @@
 ## 📊 **Dynamic Stats**
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-git-master-kims-projects.vercel.app/api?username=kim-sittikon&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
-
-<!-- Languages -->
-<img src="https://github-readme-stats-git-master-kims-projects.vercel.app/api/top-langs/?username=kim-sittikon&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
 
 <!-- Streak -->
 <img src="https://streak-stats.demolab.com/?user=kim-sittikon&theme=tokyonight&hide_border=true&border_radius=20" width="70%" />
